@@ -18,5 +18,4 @@ def str_to_lst(strng):
 
 ```py
 ls = str_to_lst("1 2 3 4) # [1, 2, 3, 4]
-
 ```
